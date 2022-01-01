@@ -30,8 +30,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="450em" src="https://github-readme-stats.vercel.app/api?username=lourivanluz&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lourivanluz&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=lourivanluz&show_icons=true&theme=vision-friendly-dark" alt="lourivanluz status"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lourivanluz&layout=compact&theme=vision-friendly-dark" alt="lourivanluz linguagens"/>
 </p>
 
 <br><br>
