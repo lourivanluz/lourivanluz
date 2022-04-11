@@ -6,7 +6,7 @@
 
 - 🔭 Sempre buscando conhecimento.
 
-- :blue_heart: **Familia, Animais, JavaScript, HTML, CSS, React**
+- :blue_heart: **Familia, Animais, JavaScript, HTML, CSS, React, Python, Typescript, Express, Docker**
 
 <br><br>
 
@@ -24,6 +24,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Flask](https://img.shields.io/badge/-flask-05122A?style=flat&logo=flask)&nbsp;
 ![Cypress](https://img.shields.io/badge/-cypress-05122A?style=flat&logo=cypress)&nbsp;
+![Express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)&nbsp;
+![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
+
 
 <br><br>
 
