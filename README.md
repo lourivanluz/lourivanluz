@@ -53,3 +53,14 @@
  <img align="center" src="https://img.shields.io/badge/-lourivanluz-05122A?style=flat&logo=facebook" alt="youtube"/>
 </a>
 </p>
+
+## 📐&nbsp;Projects
+[Back-end: BUSTER - docker | typescript | node | express](https://github.com/Kenzie-Academy-Brasil-Developers/q4-sprint2-kenzie-buster-lourivanluz)</br>
+[Back-end: GRAFO - Flask | Pyton](https://gitlab.com/lourivanRluz/desafio-dev-jr-pl)</br>
+[Back-end: PAGARME - Django | Pyton](https://github.com/Kenzie-Academy-Brasil-Developers/q4-sprint4-pagarme-lourivanluz)</br>
+[Back-end: KANVAS - Django | Pyton](https://github.com/Kenzie-Academy-Brasil-Developers/q4-sprint4-kanvas-lourivanluz)</br>
+[Back-end: LEADS - Flask | Pyton](https://github.com/Kenzie-Academy-Brasil-Developers/q3-sprint5-leads-lourivanluz)</br>
+[Front-end: EVENTOS - React | Context | Javascript](https://github.com/lourivanluz/react-entrega-s3-administracao-de-eventos-lourivanluz)</br>
+[Front-end: KENZIESHOP - React | Redux | Javascript](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s3-kenzieshop-lourivanluz)</br>
+[Front-end: HAMBURGUERIA - React | Context | typescript](https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s5-hamburgueria-2-0-com-typescript-json-server-lourivanluz)
+
