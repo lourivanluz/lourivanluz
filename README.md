@@ -56,7 +56,7 @@
 
 ## 📐&nbsp;Projects
 [Back-end: BUSTER - docker | typescript | node | express](https://github.com/Kenzie-Academy-Brasil-Developers/q4-sprint2-kenzie-buster-lourivanluz)</br>
-[Back-end: GRAFO - Flask | Pyton](https://gitlab.com/lourivanRluz/desafio-dev-jr-pl)</br>
+[Back-end: GRAFO - Flask | Pyton](https://github.com/lourivanluz/Grafo)</br>
 [Back-end: PAGARME - Django | Pyton](https://github.com/Kenzie-Academy-Brasil-Developers/q4-sprint4-pagarme-lourivanluz)</br>
 [Back-end: KANVAS - Django | Pyton](https://github.com/Kenzie-Academy-Brasil-Developers/q4-sprint4-kanvas-lourivanluz)</br>
 [Back-end: LEADS - Flask | Pyton](https://github.com/Kenzie-Academy-Brasil-Developers/q3-sprint5-leads-lourivanluz)</br>
