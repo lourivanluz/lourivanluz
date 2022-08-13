@@ -6,7 +6,7 @@
 
 - 🔭 Sempre buscando conhecimento.
 
-- :blue_heart: **Familia, Animais, JavaScript, HTML, CSS, React, Python, Typescript, Express, Docker**
+- :blue_heart: **Familia, Animais, Tecnologia**
 
 <br><br>
 
@@ -26,6 +26,7 @@
 ![Cypress](https://img.shields.io/badge/-cypress-05122A?style=flat&logo=cypress)&nbsp;
 ![Express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)&nbsp;
 ![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
+![Nestjs](https://img.shields.io/badge/-nestjs-05122A?style=flat&logo=nestjs)&nbsp;
 
 
 <br><br>
